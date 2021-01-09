@@ -1,8 +1,8 @@
 # Campus La Vie
 
 ## What is this?
-Campus La Vie is a replica of a students life at IIT Guwahati. In this replica, students was asked about the vital decisions, one needs to take during one's stay.
-A student needs to pass through four examinations - Kenken, Mastermind, Crypto Puzzle and Mystery Room. In order to step story line up, we used story of an average IITians to form basis of game.  
+Campus La Vie is a replica of a students life at IIT Guwahati. In this replica, students was asked about the vital decisions, a student needs to take during his/her stay at IIT Guwahati.
+A student needs to pass through four examinations - Kenken, Mastermind, Crypto Puzzle and Mystery Room. In order to step story line up, we used story of an average IITian to form basis of game.  
 
 ## Why did we build this?
 Campus La Vie was built for the [**Mains Event of Technothlon'20**](https://technothlon.techniche.org.in/mains) as a test for the ability of the young champs from all over India. 
