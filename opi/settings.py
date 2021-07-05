@@ -38,11 +38,11 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     # 'json_field',
-    'kenken',
-    'slide_puzzle',
+    # 'kenken',
+    # 'slide_puzzle',
     'payback',
-    'mystery_rooms',
-    'crossword_puzzle',
+    # 'mystery_rooms',
+    # 'crossword_puzzle',
 ]
 
 MIDDLEWARE = [

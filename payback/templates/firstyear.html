@@ -974,18 +974,6 @@ $(window).on("load" , scroll_exp() );
 <script src="{% static 'payback/js/firstyear/shop/ap.js' %}"></script>
 <script>
     $('#firstyearbutton').on('click', () => {
-        // {#let total_square = $('#puzzle').find('.square').length;#}
-        // {#console.log($('#puzzle').find('.square').eq(1).text());#}
-        // {#for (let i = 0; i < 15; i++) {#}
-        // {#    submittedCrossword[i] = new Array(15);#}
-        // {#var k = 0;#}
-        // {#for (let i = 0; i < 15; i++) {#}
-        // {#    for (let j = 0; j < 15; j++) {#}
-        // {#        submittedCrossword[i][j] = $('#puzzle').find('.square').eq(k).text();#}
-        // {#        k++;#}
-        // {#    }#}
-        // console.log(submittedCrossword);
-
         $.ajax({
             type: "POST",
             url: "{%url 'firstyear_submission' %}",
